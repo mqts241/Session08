@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Dell\\OneDrive\\Desktop\\Uni\\SDU\\Object Oriented Programming\\ConnectingTheDots\\Chapter_3\\Session08\\Session08.csproj": {}
+    "C:\\Users\\Dell\\OneDrive\\Desktop\\Uni\\SDU\\Object Oriented Programming\\ConnectingTheDots\\Chapter_3\\Session08\\Session08\\Session08.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Dell\\OneDrive\\Desktop\\Uni\\SDU\\Object Oriented Programming\\ConnectingTheDots\\Chapter_3\\Session08\\Session08.csproj": {
+    "C:\\Users\\Dell\\OneDrive\\Desktop\\Uni\\SDU\\Object Oriented Programming\\ConnectingTheDots\\Chapter_3\\Session08\\Session08\\Session08.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Dell\\OneDrive\\Desktop\\Uni\\SDU\\Object Oriented Programming\\ConnectingTheDots\\Chapter_3\\Session08\\Session08.csproj",
+        "projectUniqueName": "C:\\Users\\Dell\\OneDrive\\Desktop\\Uni\\SDU\\Object Oriented Programming\\ConnectingTheDots\\Chapter_3\\Session08\\Session08\\Session08.csproj",
         "projectName": "Session08",
-        "projectPath": "C:\\Users\\Dell\\OneDrive\\Desktop\\Uni\\SDU\\Object Oriented Programming\\ConnectingTheDots\\Chapter_3\\Session08\\Session08.csproj",
+        "projectPath": "C:\\Users\\Dell\\OneDrive\\Desktop\\Uni\\SDU\\Object Oriented Programming\\ConnectingTheDots\\Chapter_3\\Session08\\Session08\\Session08.csproj",
         "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Dell\\OneDrive\\Desktop\\Uni\\SDU\\Object Oriented Programming\\ConnectingTheDots\\Chapter_3\\Session08\\obj\\",
+        "outputPath": "C:\\Users\\Dell\\OneDrive\\Desktop\\Uni\\SDU\\Object Oriented Programming\\ConnectingTheDots\\Chapter_3\\Session08\\Session08\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Dell\\AppData\\Roaming\\NuGet\\NuGet.Config"
